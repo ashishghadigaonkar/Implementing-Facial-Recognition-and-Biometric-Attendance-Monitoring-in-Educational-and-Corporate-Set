@@ -36,6 +36,8 @@ Keep an eye on The Issues tab to contribute to specific tasks or bugs.
 
 > We welcome contributions from developers of all skill levels, as well as feedback and suggestions from non-technical contributors. We believe that everyone can make a valuable contribution to this project, and we're excited to have you on board!
 
+![Alt](https://repobeats.axiom.co/api/embed/36e3d4d545bcaee23e74c390f6c8d93a1beb8dc6.svg "Repobeats analytics image")
+
 -----------------------------------------------------------
 |License: CC BY 4.0, Open Life Science (OLS-7), 2023-2024 |
 -----------------------------------------------------------
